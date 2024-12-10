@@ -1,4 +1,5 @@
-![Screenshot 2024-12-05 142753](https://github.com/user-attachments/assets/f5858e14-d934-4c15-b8e6-6be31ffd9c5e)
+![dashboard_ather](https://github.com/user-attachments/assets/4d5e08f0-8588-49b6-a8eb-e3bc33e758af)
+
 # Ather-Energy-Dashboard
 
 # App Logs Performance Analysis and Dashboard
